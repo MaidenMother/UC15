@@ -1,0 +1,20 @@
+body
+    {  
+        background-color: rgb(39, 95, 51);
+        h1
+        {
+            color: rgb(10, 34, 25);
+            font-size: 70px;
+        }
+        p
+        {
+            color: rgb(255, 166, 0);
+            font-size: 20px;
+        }
+       img
+       {
+            width: 300px;
+            height: 300px;
+            border: 10px solid rgb(158, 104, 2);
+        }
+    }
