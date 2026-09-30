@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.agente{
+    background-color: #cc0a0a;
+    margin-left: 40px;
+}
